@@ -1,0 +1,11 @@
+.ulu {
+  display: flex;
+  flex-wrap: wrap;
+  width: 90%;
+  background-color: blue;
+}
+
+.classy {
+  display: flex;
+  justify-content: center;
+}

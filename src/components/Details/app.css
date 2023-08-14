@@ -1,0 +1,13 @@
+.Indepth {
+  width: 100%;
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.other {
+  background-color: orange;
+  width: 90%;
+}

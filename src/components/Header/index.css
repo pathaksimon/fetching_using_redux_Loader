@@ -1,0 +1,17 @@
+.header {
+  width: 100%;
+  background-color: #64748b;
+  height: 20vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.logo {
+  width: 20%;
+  margin-left: 10%;
+}
+
+.picture {
+  width: 100%;
+}
